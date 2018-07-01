@@ -1,268 +1,268 @@
-"Order","Order"
-"Price","Price"
-"Total","Total"
-"Zipcode","Zipcode"
-"Reorder","Reorder"
-"Add to cart","Add to cart"
-"Message from support","Message from support"
-"Message sent.","Message sent."
-"I don't work with groups.","I don't work with groups."
-"Something went wrong, please try again.","Something went wrong, please try again."
-"Ok","Ok"
-"Okay","Okay"
-"Cool","Cool"
-"Awesome","Awesome"
-"Added. To checkout send","Added. To checkout send"
-"Sorry, no products found in this category.","Sorry, no products found in this category."
-"Sorry, no products found for this criteria.","Sorry, no products found for this criteria."
-"we have sent your message to support.","we have sent your message to support."
-"Please select a category.","Please select a category."
-"Products on cart","Products on cart"
-"Checkout Here","Checkout Here"
-"Your cart is empty.","Your cart is empty."
-"Cart cleared.","Cart cleared."
-"what do you want to search for?","what do you want to search for?"
-"To login to your account, click this link","To login to your account, click this link"
-"To login to your account, access the link below","To login to your account, access the link below"
-"let me fetch that for you.","let me fetch that for you."
-"Please login first.","Please login first."
-"to checkout send","to checkout send"
-"what do you need support for?","what do you need support for?"
-"exiting support mode.","exiting support mode."
-"Done.","Done."
-"Sorry, I didn't understand that.","Sorry, I didn't understand that."
-"Ok, canceled.","Ok, canceled."
-"Your account is now attached with our chatbot.","Your account is now attached with our chatbot."
-"Chatbot settings saved successfully.","Chatbot settings saved successfully."
-"List store categories.","List store categories."
-"Search for products.","Search for products."
-"Login into your account.","Login into your account."
-"Logout from your account.","Logout from your account."
-"List your personal orders.","List your personal orders."
-"Reorder a order.","Reorder a order."
-"Add product to cart.","Add product to cart."
-"Checkout your order.","Checkout your order."
-"Clear your cart.","Clear your cart."
-"Track your order status.","Track your order status."
-"Send message to support.","Send message to support."
-"Send email.","Send email."
-"Cancel.","Cancel."
-"Get help.","Get help."
-"About.","About."
-"Webhook for Telegram configured.","Webhook for Telegram configured."
-"Command list","Command list"
-"This account has no orders.","This account has no orders."
-"write the email content.","write the email content."
-"By doing this you agree that we may contact you directly via chat message.","By doing this you agree that we may contact you directly via chat message."
-"Trying to send the email...","Trying to send the email..."
-"Contact from chatbot","Contact from chatbot"
-"Sorry, I wasn't able to send an email this time. Please try again later.","Sorry, I wasn't able to send an email this time. Please try again later."
-"Not informed","Not informed"
-"Message from chatbot customer","Message from chatbot customer"
-"Customer name","Customer name"
-"Message","Message"
-"Contacts","Contacts"
-"To cancel, send","To cancel, send"
-"Chatbot","Chatbot"
-"Email","Email"
-"send the order number.","send the order number."
-"Sorry, we couldn't find any order with this information.","Sorry, we couldn't find any order with this information."
-"Your account dosen't have any orders.","Your account dosen't have any orders."
-"To talk with me, please enable Telegram on your account chatbot settings.","To talk with me, please enable Telegram on your account chatbot settings."
-"Start a bot conversation on Telegram","Start a bot conversation on Telegram"
-"Start a bot conversation on Facebook Messenger","Start a bot conversation on Facebook Messenger"
-"Here","Here"
-"Enable Telegram?","Enable Telegram?"
-"Enable Facebook?","Enable Facebook?"
-"Enable Whatsapp?","Enable Whatsapp?"
-"Enable Wechat?","Enable Wechat?"
-"To talk with me, please enable Facebook Messenger on your account chatbot settings.","To talk with me, please enable Facebook Messenger on your account chatbot settings."
-"Visit product's page","Visit product's page"
-"Processing...","Processing..."
-"Please wait while I check that for you.","Please wait while I check that for you."
-"Login","Login"
-"To login to your account, click the link below","To login to your account, click the link below"
-"You're already logged.","You're already logged."
-"You're not logged.","You're not logged."
-"Message via","Message via"
-"From","From"
-"You're already on support in other chat application, please close it before opening a new one.","You're already on support in other chat application, please close it before opening a new one."
-"Show more","Show more"
-"Show more orders","Show more orders"
-"To show more, send","To show more, send"
-"No categories available at the moment, please try again later.","No categories available at the moment, please try again later."
-"Done. This category has %s products.","Done. This category has %s products."
-"Done. This category has only one product.","Done. This category has only one product."
-"Done. I've found %s products for your criteria.","Done. I've found %s products for your criteria."
-"Done. I've found only one product for your criteria.","Done. I've found only one product for your criteria."
-"Done. You've only one order.","Done. You've only one order."
-"Done. I've found %s orders.","Done. I've found %s orders."
-"Please wait while our support check your message so you can talk to a real person.","Please wait while our support check your message so you can talk to a real person."
-"Please use","Please use"
-"your message here.","your message here."
-"We're working on this feature.","We're working on this feature."
-"Done. The customer is no longer on support.","Done. The customer is no longer on support."
-"Support ended.","Support ended."
-"You're now on support mode.","You're now on support mode."
-"Ok, send me the message and I'll forward it to the customer.","Ok, send me the message and I'll forward it to the customer."
-"Done. The customer is no longer able to enter support.","Done. The customer is no longer able to enter support."
-"Done. The customer is now able to enter support.","Done. The customer is now able to enter support."
-"I'm sorry, you can't ask for support now. Please try again later.","I'm sorry, you can't ask for support now. Please try again later."
-"Block support","Block support"
-"Enable support","Enable support"
-"End support","End support"
-"Reply this message","Reply this message"
-"ID","ID"
-"Enable/Disable support","Enable/Disable support"
-"Ok, logging out.","Ok, logging out."
-"please wait while I prepare the checkout for you.","please wait while I prepare the checkout for you."
-"please wait while I gather your orders for listing.","please wait while I gather your orders for listing."
-"please wait while I add the products from this order to your cart.","please wait while I add the products from this order to your cart."
-"adding %s to your cart.","adding %s to your cart."
-"please wait while I gather all categories for you.","please wait while I gather all categories for you."
-"please wait while I search for '%s' for you.","please wait while I search for '%s' for you."
-"please wait while I check the status for order %s.","please wait while I check the status for order %s."
-"this product","this product"
-"listing more.","listing more."
-"please wait while I gather all products from %s for you.","please wait while I gather all products from %s for you."
-"Phrase","Phrase"
-"Reply","Reply"
-"Similarity (%)","Similarity (%)"
-"Add","Add"
-"Command","Command"
-"Command Code","Command Code"
-"Alias","Alias"
-"Match Case","Match Case"
-"And that was the last one.","And that was the last one."
-"please wait while I clear your cart.","please wait while I clear your cart."
-"Webhook URL","Webhook URL"
-"Click %s to check that information on Telegram website. If a wrong URL is set, try reloading this page or click %s.","Click %s to check that information on Telegram website. If a wrong URL is set, try reloading this page or click %s."
-"here","here"
-"To configure Facebook webhook access","To configure Facebook webhook access"
-"and set the webhook URL as","and set the webhook URL as"
-"Create a new account.","Create a new account."
-"Access %s to register a new account on our shop.","Access %s to register a new account on our shop."
-"This product is not in stock.","This product is not in stock."
-"If you want to logout from your account, just send","If you want to logout from your account, just send"
-"Please try one of the following commands.","Please try one of the following commands."
-"Okay, so you want me to list the categories for you.","Okay, so you want me to list the categories for you."
-"Okay, so you want to search for a product.","Okay, so you want to search for a product."
-"Okay, so you want to login.","Okay, so you want to login."
-"Okay, so you want to list orders.","Okay, so you want to list orders."
-"Okay, so you want to reorder.","Okay, so you want to reorder."
-"Okay, so you want to add a product to the cart.","Okay, so you want to add a product to the cart."
-"Okay, so you want to checkout.","Okay, so you want to checkout."
-"Okay, so you want to clear your cart.","Okay, so you want to clear your cart."
-"Okay, so you want to track your order.","Okay, so you want to track your order."
-"Okay, so you want support.","Okay, so you want support."
-"Okay, so you want to send us an email.","Okay, so you want to send us an email."
-"Okay, so you want to cancel.","Okay, so you want to cancel."
-"Okay, so you want to help.","Okay, so you want to help."
-"Okay, so you want to know more about us.","Okay, so you want to know more about us."
-"Okay, so you want to logout.","Okay, so you want to logout."
-"Okay, so you want to register to our store.","Okay, so you want to register to our store."
-"use your Custom Key (%s) as your Verify Token","use your Custom Key (%s) as your Verify Token"
-"Receive Promotional Messages?","Receive Promotional Messages?"
-"One message sent.","One message sent."
-"%s messages sent.","%s messages sent."
-"No customer available to receive this message.","No customer available to receive this message."
-"Chatbot Settings","Chatbot Settings"
-"Your Secret Key","Your Secret Key"
-"Master Support Group","Master Support Group"
-"Forward Fallback Messages to Support","Forward Fallback Messages to Support"
-"List Empty Categoies","List Empty Categoies"
-"Disable Promotional Messages","Disable Promotional Messages"
-"Enable Log","Enable Log"
-"General Configuration","General Configuration"
-"***Still in Development***","***Still in Development***"
-"Enable witAI Integration","Enable witAI Integration"
-"Enable Confirmation Message","Enable Confirmation Message"
-"witAI API Key","witAI API Key"
-"Acceptable witAI Confidence Percentage","Acceptable witAI Confidence Percentage"
-"Telegram Configurations","Telegram Configurations"
-"Enable Telegram Bot","Enable Telegram Bot"
-"Unavailability Message","Unavailability Message"
-"Telegram Bot API Key","Telegram Bot API Key"
-"Enable Inline Search","Enable Inline Search"
-"Enable Speech Recognition","Enable Speech Recognition"
-"Telegram Support Group ID","Telegram Support Group ID"
-"Telegram Welcome Message","Telegram Welcome Message"
-"Telegram Help Message","Telegram Help Message"
-"Telegram About Message","Telegram About Message"
-"Enable Command Listing On Help","Enable Command Listing On Help"
-"Enable Command Listing On Error","Enable Command Listing On Error"
-"Commands List","Commands List"
-"Enable Default Replies","Enable Default Replies"
-"Default Replies","Default Replies"
-"Fallback Message","Fallback Message"
-"Fallback Times","Fallback Times"
-"Facebook Messenger Configurations","Facebook Messenger Configurations"
-"Enable Messenger Bot","Enable Messenger Bot"
-"Page Access Token","Page Access Token"
-"Messenger Support Chat ID","Messenger Support Chat ID"
-"Messenger Welcome Message","Messenger Welcome Message"
-"Messenger Help Message","Messenger Help Message"
-"Messenger About Message","Messenger About Message"
-"Enable Command Prediction","Enable Command Prediction"
-"Command","Command"
-"Enable Command","Enable Command"
-"Command Code","Command Code"
-"Command Alias (Separated by Comma)","Command Alias (Separated by Comma)"
-"Match Mode","Match Mode"
-"Match Text, Regex or wit.ai entity","Match Text, Regex or wit.ai entity"
-"Match Case","Match Case"
-"Stop Processing","Stop Processing"
-"Similarity (%)","Similarity (%)"
-"Reply Mode","Reply Mode"
-"Reply Text","Reply Text"
-"Command","Command"
-"List Categories","List Categories"
-"Search For Product","Search For Product"
-"Login","Login"
-"List Orders","List Orders"
-"Reorder","Reorder"
-"Add Product to Cart","Add Product to Cart"
-"Checkout on Website","Checkout on Website"
-"Clear Cart","Clear Cart"
-"Track Order Status","Track Order Status"
-"Talk to Support","Talk to Support"
-"Send Email","Send Email"
-"Cancel","Cancel"
-"Help","Help"
-"About","About"
-"Logout","Logout"
-"Register","Register"
-"Similarity","Similarity"
-"Starts With","Starts With"
-"Ends With","Ends With"
-"Contains","Contains"
-"Match RegEx","Match RegEx"
-"Equals to","Equals to"
-"wit.ai","wit.ai"
-"Disable","Disable"
-"Enable","Enable"
-"Telegram Group","Telegram Group"
-"Messenger Group","Messenger Group"
-"Message us","Message us"
-"Enable Facebook Messenger Box","Enable Facebook Messenger Box"
-"Facebook Messenger Box Size","Facebook Messenger Box Size"
-"Telegram Bot Username","Telegram Bot Username"
-"Facebook Page Username","Facebook Page Username"
-"Your order status is","Your order status is"
-"Done. The bot will no longer send messages to this customer.","Done. The bot will no longer send messages to this customer."
-"Done. The bot will now start sending messages to this customer.","Done. The bot will now start sending messages to this customer."
-"Bot respond is disabled for now because the customer is being replied by a human.","Bot respond is disabled for now because the customer is being replied by a human."
-"Enable/Disable Bot Replies","Enable/Disable Bot Replies"
-"List of all admin commands","List of all admin commands"
-"List all admin commands","List all admin commands"
-"Send message to all customers","Send message to all customers"
-"End support for customer","End support for customer"
-"Block customer for entering support mode","Block customer for entering support mode"
-"Enable customer for entering support mode","Enable customer for entering support mode"
-"Disable bot responses","Disable bot responses"
-"Enable bot responses","Enable bot responses"
-"Enable Option to Disable Bot","Enable Option to Disable Bot"
-"Hi","Hi"
-"Enable Referral","Enable Referral"
-"If you want to reorder one of these orders, choose it below, or choose '%s' to list more orders.","If you want to reorder one of these orders, choose it below, or choose '%s' to list more orders."
-"Customer isn't on support.","Customer isn't on support."
+Order,Orden 
+Price,Precio 
+Total,Total 
+Zipcode,Código postal 
+Reorder,Reordenar 
+Add to cart,Añadir al carrito 
+Message from support,Mensaje de apoyo 
+Message sent.,Mensaje enviado. 
+I don't work with groups.,No trabajo con grupos. 
+"Something went wrong, please try again.","Algo salió mal, por favor vuelva a intentarlo. "
+Ok,Vale 
+Okay,Bien 
+Cool,Enfriar 
+Awesome,Impresionante 
+Added. To checkout send,Añadido. Compra enviar 
+"Sorry, no products found in this category.","Lo sentimos, no hay productos encontrados en esta categoría. "
+"Sorry, no products found for this criteria.","Lo sentimos, no hay productos encontraron para este criterio. "
+we have sent your message to support.,hemos enviado su mensaje de apoyo. 
+Please select a category.,Por favor seleccione una categoría. 
+Products on cart,Productos en carro 
+Checkout Here,Pedido aquí 
+Your cart is empty.,Su cesta está vacía. 
+Cart cleared.,Carro de borra. 
+what do you want to search for?,¿Qué desea buscar? 
+"To login to your account, click this link","Para acceder a su cuenta, haga clic en este enlace "
+"To login to your account, access the link below","Para acceder a tu cuenta, accede el siguiente enlace "
+let me fetch that for you.,Permítanme traen para ti. 
+Please login first.,Por favor ingresa primero. 
+to checkout send,compra enviar 
+what do you need support for?,¿Qué necesitan apoyo para? 
+exiting support mode.,salir del modo de apoyo. 
+Done.,Hecho. 
+"Sorry, I didn't understand that.","Lo sentimos, no entiendo que. "
+"Ok, canceled.","OK, se cancela. "
+Your account is now attached with our chatbot.,Su cuenta se une ahora con nuestro chatbot. 
+Chatbot settings saved successfully.,Chatbot ajustes guardados con éxito. 
+List store categories.,Lista categorías de tienda. 
+Search for products.,Búsqueda de productos. 
+Login into your account.,Inicio de sesión en su cuenta. 
+Logout from your account.,Cerrar sesión de su cuenta. 
+List your personal orders.,Lista tus pedidos personales. 
+Reorder a order.,Reordenar una orden. 
+Add product to cart.,Añadir producto al carrito. 
+Checkout your order.,Pedido su pedido. 
+Clear your cart.,Claro tu carro. 
+Track your order status.,Seguimiento de estado de tu pedido. 
+Send message to support.,Enviar mensaje a apoyar. 
+Send email.,Enviar correo electrónico. 
+Cancel.,Cancelar. 
+Get help.,Obtener ayuda. 
+About.,Acerca de. 
+Webhook for Telegram configured.,Webhook para telegrama configurado. 
+Command list,Lista de comandos 
+This account has no orders.,Esta no cuenta pedidos. 
+write the email content.,Escriba el contenido del correo electrónico. 
+By doing this you agree that we may contact you directly via chat message.,Haciendo esto que usted está de acuerdo en que nos podremos en contacto contigo directamente a través de mensaje de chat. 
+Trying to send the email...,Tratando de enviar el correo electrónico... 
+Contact from chatbot,Contacto de chatbot 
+"Sorry, I wasn't able to send an email this time. Please try again later.","Lo sentimos, no pude enviar un correo electrónico esta vez. Por favor Inténtalo más tarde. "
+Not informed,No informado 
+Message from chatbot customer,Mensaje del cliente de chatbot 
+Customer name,Nombre del cliente 
+Message,Mensaje 
+Contacts,Contactos 
+"To cancel, send","Para cancelar, envíe "
+Chatbot,Chatbot 
+Email,Correo electrónico 
+send the order number.,enviar el número de orden. 
+"Sorry, we couldn't find any order with this information.","Lo sentimos, no pudimos encontrar ningún orden con esta información. "
+Your account dosen't have any orders.,Su cuenta tiene ningún pedido. 
+"To talk with me, please enable Telegram on your account chatbot settings.","Para hablar conmigo, por favor, active el telegrama en su configuración de cuenta de chatbot. "
+Start a bot conversation on Telegram,Iniciar una conversación de bot en telegrama 
+Start a bot conversation on Facebook Messenger,Iniciar una conversación de bot en Facebook Messenger 
+Here,Aquí 
+Enable Telegram?,¿Habilitar el telegrama? 
+Enable Facebook?,¿Habilitar el Facebook? 
+Enable Whatsapp?,¿Activar Whatsapp? 
+Enable Wechat?,¿Permiten Wechat? 
+"To talk with me, please enable Facebook Messenger on your account chatbot settings.","Para hablar conmigo, por favor habilite a Facebook Messenger en tu cuenta ajustes de chatbot. "
+Visit product's page,Visita la página del producto 
+Processing...,Procesamiento de... 
+Please wait while I check that for you.,Por favor espere mientras verifico para usted. 
+Login,Inicio de sesión 
+"To login to your account, click the link below","Para acceder a su cuenta, haga clic en el enlace de abajo "
+You're already logged.,Usted ya está registrado. 
+You're not logged.,No estás logueado. 
+Message via,Mensaje de la 
+From,De 
+"You're already on support in other chat application, please close it before opening a new one.","Ya se encuentra en apoyo en otra aplicación de chat, por favor ciérrela antes de abrir uno nuevo. "
+Show more,Ver más 
+Show more orders,Mostrar más pedidos 
+"To show more, send","Para mostrar más, enviar "
+"No categories available at the moment, please try again later.","No hay categorías disponibles en este momento, por favor Inténtalo más tarde. "
+Done. This category has %s products.,Hecho. Esta categoría tiene productos de %s. 
+Done. This category has only one product.,Hecho. Esta categoría tiene un único producto. 
+Done. I've found %s products for your criteria.,Hecho. He encontrado productos de %s para Tu criterio. 
+Done. I've found only one product for your criteria.,Hecho. He encontrado un único producto para Tu criterio. 
+Done. You've only one order.,Hecho. Tienes solamente una orden. 
+Done. I've found %s orders.,Hecho. He encontrado %s órdenes. 
+Please wait while our support check your message so you can talk to a real person.,Por favor espere mientras nuestro apoyo Compruebe su mensaje así que usted puede hablar con una persona real. 
+Please use,Por favor use 
+your message here.,su mensaje aquí. 
+We're working on this feature.,Estamos trabajando en esta función. 
+Done. The customer is no longer on support.,Hecho. El cliente ya no está en apoyo. 
+Support ended.,Apoyo terminó. 
+You're now on support mode.,Ahora estás en modo de apoyo. 
+"Ok, send me the message and I'll forward it to the customer.","OK, mandame el mensaje y lo envío al cliente. "
+Done. The customer is no longer able to enter support.,Hecho. El cliente ya no es capaz de entrar en apoyo. 
+Done. The customer is now able to enter support.,Hecho. El cliente puede ahora entrar en apoyo. 
+"I'm sorry, you can't ask for support now. Please try again later.","Lo siento, usted no puede pedir ayuda ahora. Por favor Inténtalo más tarde. "
+Block support,Soporte del bloque 
+Enable support,Habilitar la compatibilidad con 
+End support,Soporte de extremo 
+Reply this message,Este mensaje de respuesta 
+ID,ID 
+Enable/Disable support,Activar/desactivar el soporte 
+"Ok, logging out.","OK, desconectarse. "
+please wait while I prepare the checkout for you.,por favor espere mientras preparo el pedido para usted. 
+please wait while I gather your orders for listing.,por favor espere mientras recoger sus pedidos para el listado. 
+please wait while I add the products from this order to your cart.,por favor espere mientras agrego los productos de esta orden a su carro. 
+adding %s to your cart.,Agregar %s a su carrito. 
+please wait while I gather all categories for you.,por favor espere mientras recojo todas las categorías para ti. 
+please wait while I search for '%s' for you.,por favor espere mientras busco '%s' para usted. 
+please wait while I check the status for order %s.,por favor espere mientras reviso el estado de orden s %. 
+this product,Este producto 
+listing more.,Listado más. 
+please wait while I gather all products from %s for you.,"por favor, espere mientras que se reúnen todos los productos de %s para usted. "
+Phrase,Frase 
+Reply,Respuesta 
+Similarity (%),Semejanza (%) 
+Add,Añadir 
+Command,Comando 
+Command Code,Código de comando 
+Alias,Alias 
+Match Case,Caso de partido 
+And that was the last one.,Y fue la última. 
+please wait while I clear your cart.,por favor espere mientras limpio su carro. 
+Webhook URL,URL Webhook 
+"Click %s to check that information on Telegram website. If a wrong URL is set, try reloading this page or click %s.","Haga clic en %s para verificar que la información en la Página Web de telegrama. Si se establece una dirección URL incorrecta, intente recargar esta página o haga clic en %s. "
+here,aquí 
+To configure Facebook webhook access,Para configurar el acceso de Facebook webhook 
+and set the webhook URL as,y configurar la URL de webhook como 
+Create a new account.,Crear una nueva cuenta. 
+Access %s to register a new account on our shop.,Acceder a %s para registrar una nueva cuenta en nuestra tienda. 
+This product is not in stock.,Este producto no está en stock. 
+"If you want to logout from your account, just send","Si desea cerrar sesión desde tu cuenta, envíanos "
+Please try one of the following commands.,"Por favor, pruebe uno de los siguientes comandos. "
+"Okay, so you want me to list the categories for you.","Muy bien, así quiere que las categorías de la lista para usted. "
+"Okay, so you want to search for a product.","Muy bien, así que desea buscar un producto. "
+"Okay, so you want to login.","Muy bien, así que desea ingresar. "
+"Okay, so you want to list orders.","Bueno, por lo que a las órdenes de la lista. "
+"Okay, so you want to reorder.","Muy bien, así que desee reordenar. "
+"Okay, so you want to add a product to the cart.","Muy bien, así que desea agregar un producto a la cesta. "
+"Okay, so you want to checkout.","Bueno, por lo que pago. "
+"Okay, so you want to clear your cart.","Muy bien, así que desea borrar su carro. "
+"Okay, so you want to track your order.","Muy bien, así que desea rastrear su pedido. "
+"Okay, so you want support.","Bueno, por lo que apoyo. "
+"Okay, so you want to send us an email.","Muy bien, así que desea enviarnos un correo electrónico. "
+"Okay, so you want to cancel.","Muy bien, así que desea cancelar. "
+"Okay, so you want to help.","Muy bien, así que desea ayudar. "
+"Okay, so you want to know more about us.","Bueno, por lo que usted quiere saber más sobre nosotros. "
+"Okay, so you want to logout.","Muy bien, así que desea cerrar la sesión. "
+"Okay, so you want to register to our store.","Muy bien, así que desea registrarse en nuestra tienda. "
+use your Custom Key (%s) as your Verify Token,Utilice su clave personalizada (%s) como su símbolo verificar 
+Receive Promotional Messages?,¿Recibir mensajes promocionales? 
+One message sent.,Un mensaje enviado. 
+%s messages sent.,%s mensajes. 
+No customer available to receive this message.,Ningún cliente disponible para recibir este mensaje. 
+Chatbot Settings,Configuración de Chatbot 
+Your Secret Key,Su clave secreta 
+Master Support Group,Grupo de apoyo del maestro 
+Forward Fallback Messages to Support,Reenviar los mensajes de respaldo para soporte 
+List Empty Categoies,Lista de categorías vacías 
+Disable Promotional Messages,Desactivar mensajes promocionales 
+Enable Log,Habilitar registro 
+General Configuration,Configuración general 
+***Still in Development***,Todavía en desarrollo *** 
+Enable witAI Integration,Habilitar witAI integración 
+Enable Confirmation Message,Activar mensaje de confirmación 
+witAI API Key,witAI API Key 
+Acceptable witAI Confidence Percentage,WitAI aceptable porcentaje de confianza 
+Telegram Configurations,Configuraciones de telegrama 
+Enable Telegram Bot,Habilitar Bot de telegrama 
+Unavailability Message,Mensaje de falta de disponibilidad 
+Telegram Bot API Key,Telegrama Bot API Key 
+Enable Inline Search,Permitir la búsqueda en línea 
+Enable Speech Recognition,Habilitar reconocimiento de voz 
+Telegram Support Group ID,ID de grupo de apoyo de telegrama 
+Telegram Welcome Message,Mensaje de bienvenida de telegrama 
+Telegram Help Message,Mensaje de ayuda de telegrama 
+Telegram About Message,Telegrama sobre el mensaje 
+Enable Command Listing On Help,Habilitar comando listado en la ayuda 
+Enable Command Listing On Error,Habilitar comando listado en caso de Error 
+Commands List,Lista de comandos 
+Enable Default Replies,Permitir respuestas de defecto 
+Default Replies,Respuestas de defecto 
+Fallback Message,Mensaje de suplencia 
+Fallback Times,Tiempos de respaldo 
+Facebook Messenger Configurations,Configuraciones de mensajería de Facebook 
+Enable Messenger Bot,Activar el Bot de Messenger 
+Page Access Token,Token de acceso de la página 
+Messenger Support Chat ID,Messenger ayuda Chat ID 
+Messenger Welcome Message,Mensaje de bienvenida del Messenger 
+Messenger Help Message,Mensaje de ayuda de Messenger 
+Messenger About Message,Mensajero mensaje 
+Enable Command Prediction,Habilitar comando predicción 
+Command,Comando 
+Enable Command,Activar el comando 
+Command Code,Código de comando 
+Command Alias (Separated by Comma),Alias de comando (separados por comas) 
+Match Mode,Modo de partido 
+"Match Text, Regex or wit.ai entity","Coincidir con la entidad de texto, Regex o wit.ai "
+Match Case,Caso de partido 
+Stop Processing,Detener el procesamiento 
+Similarity (%),Semejanza (%) 
+Reply Mode,Modo de respuesta 
+Reply Text,Texto de respuesta 
+Command,Comando 
+List Categories,Categorías de la lista 
+Search For Product,Búsqueda de producto 
+Login,Inicio de sesión 
+List Orders,Lista de pedidos 
+Reorder,Reordenar 
+Add Product to Cart,Añadir producto a la cesta 
+Checkout on Website,Verificación en sitio de Internet 
+Clear Cart,Carro de claro 
+Track Order Status,Estado de pedido de pista 
+Talk to Support,Hable a soporte 
+Send Email,Enviar correo electrónico 
+Cancel,Cancelar 
+Help,Ayuda 
+About,Acerca de 
+Logout,Cierre de sesión 
+Register,Registro 
+Similarity,Similitud 
+Starts With,Se inicia con 
+Ends With,Termina con 
+Contains,Contiene 
+Match RegEx,Match RegEx 
+Equals to,Es igual a 
+wit.ai,Wit.AI 
+Disable,Desactivar 
+Enable,Permiten 
+Telegram Group,Grupo de telegrama 
+Messenger Group,Grupo Mensajero 
+Message us,El mensaje nos 
+Enable Facebook Messenger Box,Casilla de mensajería de Facebook 
+Facebook Messenger Box Size,Tamaño de la caja de Facebook Messenger 
+Telegram Bot Username,Telegrama Bot Username 
+Facebook Page Username,Página de Facebook Username 
+Your order status is,Estado de tu pedido es 
+Done. The bot will no longer send messages to this customer.,Hecho. El bot ya no enviará mensajes a este cliente. 
+Done. The bot will now start sending messages to this customer.,Hecho. El bot ahora comenzará a enviar mensajes a este cliente. 
+Bot respond is disabled for now because the customer is being replied by a human.,Responder bot está desactivado por ahora porque el cliente es ser respondido por un humano. 
+Enable/Disable Bot Replies,Activar/desactivar el Bot respuestas 
+List of all admin commands,Lista de todos los comandos de admin 
+List all admin commands,Lista todos los comandos de admin 
+Send message to all customers,Enviar mensaje a todos los clientes 
+End support for customer,Fin de soporte para el cliente 
+Block customer for entering support mode,Cliente de bloque para entrar en modo de compatibilidad 
+Enable customer for entering support mode,Habilitar al cliente para entrar en modo de compatibilidad 
+Disable bot responses,Desactivar las respuestas de bot 
+Enable bot responses,Permitir respuestas de bot 
+Enable Option to Disable Bot,Habilitar la opción para desactivar el Bot 
+Hi,Hola 
+Enable Referral,Permitir la remisión 
+"If you want to reorder one of these orders, choose it below, or choose '%s' to list more orders.","Si desea ordenar uno de estos órdenes, seleccione lo siguiente, o '%s' más pedidos de la lista. "
+Customer isn't on support.,Cliente no está en apoyo. 
